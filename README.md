@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Aslan Iakupov
 
-<!--
-**Aslan591/Aslan591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  ML Engineer
 
-Here are some ideas to get you started:
+ I’m interested in:
+- Machine Learning
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tech Stack
+- Python, Java
+- scikit-learn, pandas, numpy, fastAPI
+- SQL
+- Git, Docker
+
+---
+
+## 🚀 Projects (in progress)
+
+---
+
+## 🌐 Links
+- GitHub: https://github.com/Aslan591
+- Portfolio: (coming soon)
+
+---
+
+## 📫 Contact
+- Email: a.iakupov@innopolis.university
+- Email: yakupr78t@gmail.com
