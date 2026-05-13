@@ -21,7 +21,7 @@ I’m interested in:
 ## Tech Stack
 - **Languages:** Python, Java, SQL
 - **ML/Data:** scikit-learn, pandas, numpy
-- **Backend:** FastAPI, REST API
+- **Backend:** FastAPI
 - **Databases:** PostgreSQL
 - **Tools:** Git, Docker, Alembic
 
