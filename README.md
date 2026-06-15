@@ -3,7 +3,7 @@
 ## ML Engineer
 
 About me:
-- I’m a second-year DSAI (Data Science and Artificial Intelligence) student at Innopolis University, specializing in the AI track.
+- I’m a third-year DSAI (Data Science and Artificial Intelligence) student at Innopolis University, specializing in the AI track.
 - My current focus is on deep learning and building my skills in machine learning.
 - I’m a sociable person who enjoys meeting new people and working in a team.
 - Outside of academics, I enjoy going to the gym and playing volleyball.
