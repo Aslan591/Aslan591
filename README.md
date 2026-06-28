@@ -1,70 +1,32 @@
 # 👋 Hi, I'm Aslan Iakupov
 
-## ML Engineer
+I'm a DSAI student at Innopolis University and an aspiring ML Engineer focused on building practical ML products, recommendation systems, and backend-oriented AI applications.
 
-About me:
-- I’m a third-year DSAI (Data Science and Artificial Intelligence) student at Innopolis University, specializing in the AI track.
-- My current focus is on deep learning and building my skills in machine learning.
-- I’m a sociable person who enjoys meeting new people and working in a team.
-- Outside of academics, I enjoy going to the gym and playing volleyball.
-  
----
+Currently focused on deep learning, NLP, recommender systems, and writing clean code that connects machine learning with real product use cases.
 
-I’m interested in:
-- Machine Learning
-- Data Analysis
+## Interests
+
+- Machine learning and deep learning
+- Recommendation systems
+- NLP and semantic search
 - Backend-oriented ML systems
-- Recommendation systems and NLP applications
+- Building useful AI products
 
----
+## Tech stack
 
-## Tech Stack
-- **Languages:** Python, Java, SQL
-- **ML/Data:** scikit-learn, pandas, numpy
-- **Backend:** FastAPI
-- **Databases:** PostgreSQL
-- **Tools:** Git, Docker, Alembic
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-000000?style=flat)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
----
+## Portfolio
 
-##  Projects
-
-### [Movie Recommendation System](https://github.com/Aslan591/movie-recommendation-system)
-ML-powered movie recommendation system built with **FastAPI**, **PostgreSQL**, and **Docker**.  
-The project uses **collaborative filtering** and **matrix factorization (SVD)** to generate personalized movie recommendations, while also demonstrating a complete ML workflow: data storage, model training, artifact management, retraining, and API-based inference.
-
-**Highlights:**
-- Recommendation engine based on collaborative filtering
-- Matrix factorization with SVD
-- REST API + web interface
-- PostgreSQL for persistent storage
-- Dockerized setup
-- ML artifact and metadata handling
-
-### [AI Resume Analyzer](https://github.com/Aslan591/ai-resume-analyzer)
-FastAPI-based application for comparing a **resume** with a **job description**.  
-It extracts skills, measures semantic similarity, calculates an overall matching score, and generates improvement recommendations using **AI** with a fallback mechanism.
-
-**Highlights:**
-- Resume vs job description analysis
-- Skill extraction and matching
-- Semantic similarity scoring
-- AI-generated recommendations
-- Fallback logic when AI is unavailable
-- Simple frontend + API
-
-### [Portfolio Website](https://github.com/Aslan591/aslan591.github.io)
-Personal portfolio website showcasing my background, skills, and projects.
-
----
-
-##  Links
-- **GitHub:** [github.com/Aslan591](https://github.com/Aslan591)
-- **Portfolio:** [aslan591.github.io](https://aslan591.github.io)
-
----
-
-##  Contact
-- **Email:** a.iakupov@innopolis.university
-- **Email:** yakupr78t@gmail.com
-- **Telegram:** [@TychkaNchiK](https://t.me/TychkaNchiK)
+[aslan591.github.io](https://aslan591.github.io)
